@@ -1,0 +1,22 @@
+{
+  "name": "flist",
+  "version": "0.0.3",
+  "description": "An f-list.net utility",
+  "main": "flist.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ka-vi/flist.git"
+  },
+  "dependencies": {
+    "optimist": "~0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "flist": "./flist.js"
+  },
+  "author": "Ka'vi",
+  "license": "GPLv3"
+}
